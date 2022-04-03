@@ -1,3 +1,5 @@
+### Usage example
+
 ```csharp
 Config config = GetConfig();
 
