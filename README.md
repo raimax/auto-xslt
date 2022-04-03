@@ -1,4 +1,4 @@
-```
+```csharp
 Config config = GetConfig();
 
 if (config is null)
